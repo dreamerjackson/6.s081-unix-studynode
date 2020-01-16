@@ -282,6 +282,10 @@ Unix结合了文件描述符，管道和方便的shell语法以对其进行操�
 
 
 ## 参考资料
+https://dreamerjonson.com/2020/01/04/6-s081-1/
 https://pdos.csail.mit.edu/6.828/2019/labs/util.html
 https://pdos.csail.mit.edu/6.828/2019/xv6/book-riscv-rev0.pdf
 https://pdos.csail.mit.edu/6.828/2019/lec/l-overview.txt
+
+## 技术交流
+技术交流2群：713385260

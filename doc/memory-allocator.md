@@ -1,4 +1,7 @@
 # 内存分配
+## 前序课程
+操作系统接口：https://dreamerjonson.com/2020/01/04/6-s081-1/
+
 ## 系统编程（Systems programming）
 [wiki参考](https://en.wikipedia.org/wiki/Systems_programming)
 * 与应用程序编程相比，系统编程的主要区别在于，应用程序编程旨在产生直接向用户提供服务的软件。
@@ -512,8 +515,8 @@ lst_print(Bd_list *lst)
 
 
 ## 其他顺序分配方式
-  dlmalloc
-  slab allocator
+    * dlmalloc
+    * slab allocator
 ## 其他目标
 
 * 内存开销小
@@ -525,3 +528,6 @@ lst_print(Bd_list *lst)
 ##  参考资料
 [源码](https://en.wikipedia.org/wiki/Buddy_memory_allocation)
 [讲义](https://pdos.csail.mit.edu/6.828/2019/lec/l-allocator.txt)
+
+## 技术交流
+技术交流2群：713385260
